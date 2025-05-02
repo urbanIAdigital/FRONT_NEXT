@@ -2,6 +2,6 @@
 
 export default function Home() {
   return (
-    <h1>Cambios numero 2</h1>
+    <button className="bg-primary p-3">CLICK</button>
   )
 }
