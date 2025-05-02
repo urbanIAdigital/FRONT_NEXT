@@ -2,6 +2,6 @@
 
 export default function Home() {
   return (
-    <h1>Prueba de despliegue</h1>
+    <h1>Cambios numero 2</h1>
   )
 }
